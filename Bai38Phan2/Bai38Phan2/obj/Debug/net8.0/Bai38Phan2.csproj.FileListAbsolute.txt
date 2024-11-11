@@ -1,0 +1,14 @@
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\bin\Debug\net8.0\Bai38Phan2.exe
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\bin\Debug\net8.0\Bai38Phan2.deps.json
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\bin\Debug\net8.0\Bai38Phan2.runtimeconfig.json
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\bin\Debug\net8.0\Bai38Phan2.dll
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\bin\Debug\net8.0\Bai38Phan2.pdb
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\obj\Debug\net8.0\Bai38Phan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\obj\Debug\net8.0\Bai38Phan2.AssemblyInfoInputs.cache
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\obj\Debug\net8.0\Bai38Phan2.AssemblyInfo.cs
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\obj\Debug\net8.0\Bai38Phan2.csproj.CoreCompileInputs.cache
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\obj\Debug\net8.0\Bai38Phan2.dll
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\obj\Debug\net8.0\refint\Bai38Phan2.dll
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\obj\Debug\net8.0\Bai38Phan2.pdb
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\obj\Debug\net8.0\Bai38Phan2.genruntimeconfig.cache
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38Phan2\Bai38Phan2\obj\Debug\net8.0\ref\Bai38Phan2.dll

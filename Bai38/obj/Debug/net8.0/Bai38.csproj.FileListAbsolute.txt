@@ -1,0 +1,14 @@
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\bin\Debug\net8.0\Bai38.exe
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\bin\Debug\net8.0\Bai38.deps.json
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\bin\Debug\net8.0\Bai38.runtimeconfig.json
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\bin\Debug\net8.0\Bai38.dll
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\bin\Debug\net8.0\Bai38.pdb
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\obj\Debug\net8.0\Bai38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\obj\Debug\net8.0\Bai38.AssemblyInfoInputs.cache
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\obj\Debug\net8.0\Bai38.AssemblyInfo.cs
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\obj\Debug\net8.0\Bai38.csproj.CoreCompileInputs.cache
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\obj\Debug\net8.0\Bai38.dll
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\obj\Debug\net8.0\refint\Bai38.dll
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\obj\Debug\net8.0\Bai38.pdb
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\obj\Debug\net8.0\Bai38.genruntimeconfig.cache
+C:\Users\ntanh\OneDrive\Desktop\STW\C#\Bai38\Bai38\obj\Debug\net8.0\ref\Bai38.dll

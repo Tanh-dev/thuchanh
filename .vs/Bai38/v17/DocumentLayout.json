@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ntanh\\OneDrive\\Desktop\\STW\\C#\\Bai38\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62B82DD2-6DB1-4681-84F3-27D496274C95}|Bai38\\Bai38.csproj|c:\\users\\ntanh\\onedrive\\desktop\\stw\\c#\\bai38\\bai38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B82DD2-6DB1-4681-84F3-27D496274C95}|Bai38\\Bai38.csproj|solutionrelative:bai38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ntanh\\OneDrive\\Desktop\\STW\\C#\\Bai38\\Bai38\\Program.cs",
+              "RelativeDocumentMoniker": "Bai38\\Program.cs",
+              "ToolTip": "C:\\Users\\ntanh\\OneDrive\\Desktop\\STW\\C#\\Bai38\\Bai38\\Program.cs",
+              "RelativeToolTip": "Bai38\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:16:01.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
